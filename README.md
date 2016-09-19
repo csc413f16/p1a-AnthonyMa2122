@@ -1,4 +1,6 @@
-Name:
+Name:Anthony Ma
+Tapped the screen of the Nexus 6 and it launched "Hello World".
+
 
 Compilation and Run Successful:
 
