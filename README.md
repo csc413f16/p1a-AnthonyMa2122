@@ -30,6 +30,13 @@ Unit Test Run Successfully:
  get the unit test run on the program.  If you had any problems, please
  describe these problems.
 
+## Problems with Android Studio and Git/GitHub
+  If you are having trouble using the builtin Git tools in Android 
+  Studio after cloning the project, use the command line git tool to 
+  add, commit, and push the necessary files. Go to the root directory 
+  of the project, and you can see what has been modified by typing 
+  `git status`.
+
 ## Submissions
  When you have completed the task, commit and push to the repo.
  
