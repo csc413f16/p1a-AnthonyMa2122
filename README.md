@@ -6,8 +6,10 @@ Tapped the screen of the Nexus 6. The border on the top corner says "csc413f16p1
 After entering a number and submitting, a little notification pops up "You entered 15555" (typed in 15555).
 
 ApplicationTest
-After running "All Tests", received message "All 2 tests passed".
+After running "All Tests", received message "All 2 tests passed". "Test ran to completion"
 
+ExampleUnitTest
+"1 test passed"
 
 Compilation and Run Successful: Yes
 
