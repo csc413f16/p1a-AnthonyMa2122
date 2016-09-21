@@ -1,10 +1,17 @@
 Name:Anthony Ma
-Tapped the screen of the Nexus 6 and....
+912579127
+9/21/16
+Main Activity
+Tapped the screen of the Nexus 6. The border on the top corner says "csc413f16p1a". Underneath it says "Hello World" and prompts the user to enter a number.
+After entering a number and submitting, a little notification pops up "You entered 15555" (typed in 15555).
+
+ApplicationTest
+After running "All Tests", received message "All 2 tests passed".
 
 
-Compilation and Run Successful:
+Compilation and Run Successful: Yes
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: Yes
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
